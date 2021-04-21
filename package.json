@@ -1,7 +1,6 @@
 {
   "name": "itmo_web_6sem_server",
   "version": "1.0.0",
-  "description": "![Last commit date](https://img.shields.io/github/last-commit/DFirsa/ITMO_web_6sem_server?color=%230082f3&style=for-the-badge)\r ![Most used language](https://img.shields.io/github/languages/top/DFirsa/ITMO_web_6sem_server?color=%2324&style=for-the-badge)\r ![Repo size](https://img.shields.io/github/repo-size/DFirsa/ITMO_web_6sem_server?color=%23EE5500&style=for-the-badge)\r ![Languages counter](https://img.shields.io/github/languages/count/DFirsa/ITMO_web_6sem_server?style=for-the-badge)",
   "main": "./index.js",
   "scripts": {
     "start": "node ./index.js",
@@ -9,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DFirsa/ITMO_web_6sem_server.git"
+    "url": "git+https://github.com/LinaFawn/ServerTest.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DFirsa/ITMO_web_6sem_server/issues"
+    "url": "https://github.com/LinaFawn/ServerTest/issues"
   },
-  "homepage": "https://github.com/DFirsa/ITMO_web_6sem_server#readme",
+  "homepage": "https://github.com/LinaFawn/ServerTest#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "body-parser": "^1.19.0",
@@ -30,5 +29,6 @@
     "eslint": "^7.24.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1"
-  }
+  },
+  "description": "![Last commit date](https://img.shields.io/github/last-commit/DFirsa/ITMO_web_6sem_server?color=%230082f3&style=for-the-badge) ![Most used language](https://img.shields.io/github/languages/top/DFirsa/ITMO_web_6sem_server?color=%2324&style=for-the-badge) ![Repo size](https://img.shields.io/github/repo-size/DFirsa/ITMO_web_6sem_server?color=%23EE5500&style=for-the-badge) ![Languages counter](https://img.shields.io/github/languages/count/DFirsa/ITMO_web_6sem_server?style=for-the-badge)"
 }
